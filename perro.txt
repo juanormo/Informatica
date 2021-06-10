@@ -1,6 +1,9 @@
 Los perros son dependientes.
 
 Los perros son dependientes.
+Los perros tienen 4 patas. 
+Los perros son muy lindos
+Los perros tienen cola
 
 <<<<<<< HEAD
 
