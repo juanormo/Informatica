@@ -2,6 +2,7 @@ Los perros son dependientes.
 
 Los perros son dependientes.
 
+<<<<<<< HEAD
 
 
 
@@ -25,3 +26,8 @@ Los perros ladran.
 
 
 Los perros son mascotas.
+=======
+Mueven la cola cuando estan contentos
+Esconden la cola cuando tienen miedo
+Corren mas rapido que las bicis
+>>>>>>> 4858202de547e6cf29013e0647ccc2eb0aba5120
