@@ -1,3 +1,7 @@
 Los perros son dependientes.
 
 Los perros son dependientes.
+
+Mueven la cola cuando estan contentos
+Esconden la cola cuando tienen miedo
+Corren mas rapido que las bicis
